@@ -1,0 +1,135 @@
+2020-03-28T13:44:37.062 - Handle New File Event
+2020-03-28T13:44:38.278 - Handle Open File Event
+2020-03-28T13:46:52.255 - Handle New File Event
+2020-03-28T13:46:52.998 - Handle Open File Event
+2020-03-28T13:47:21.861 - PrinCad end execution
+2020-03-28T13:47:26.626 - PrinCad begin execution
+2020-03-28T13:47:36.519 - Handle Open File Event
+2020-03-28T13:50:09.288 - PrinCad end execution
+2020-03-28T13:55:28.469 - PrinCad begin execution
+2020-03-28T13:55:31.677 - Handle Open File Event
+2020-03-28T13:55:42.874 - PrinCad end execution
+2020-03-28T14:01:33.877 - PrinCad begin execution
+2020-03-28T14:01:39.061 - Handle Open File Event
+2020-03-28T14:01:45.237 - Handle Rectangle Event
+2020-03-28T14:01:48.637 - Handle Single LIne Event
+2020-03-28T14:01:54.013 - Handle Ellipse Event
+2020-03-28T14:02:09.205 - Handle Save File Event
+2020-03-28T14:02:37.949 - Handle New File Event
+2020-03-28T14:02:38.845 - Handle Open File Event
+2020-03-28T14:02:48.361 - PrinCad end execution
+2020-03-28T14:03:53.528 - PrinCad begin execution
+2020-03-28T14:04:06.016 - PrinCad end execution
+2020-03-28T14:04:18.379 - PrinCad begin execution
+2020-03-28T14:04:31.837 - PrinCad end execution
+2020-03-28T14:24:58.248 - PrinCad begin execution
+2020-03-28T14:25:16.239 - PrinCad end execution
+2020-03-28T14:27:27.4 - PrinCad begin execution
+2020-03-28T14:27:32.397 - Handle Open File Event
+2020-03-28T14:27:56.582 - PrinCad end execution
+2020-03-28T14:44:51.378 - PrinCad begin execution
+2020-03-28T14:45:05.814 - PrinCad end execution
+2020-03-28T14:45:34.718 - PrinCad begin execution
+2020-03-28T14:45:51.397 - Handle Open File Event
+2020-03-28T14:46:00.005 - Handle Save As File Event
+2020-03-28T14:46:05.501 - Save As File  java.lang.NullPointerException
+2020-03-28T14:46:10.076 - Handle Save File Event
+2020-03-28T14:46:12.159 - Save File  java.lang.NullPointerException
+2020-03-28T14:46:14.026 - PrinCad end execution
+2020-03-28T14:52:06.315 - PrinCad begin execution
+2020-03-28T14:52:10.054 - Handle Open File Event
+2020-03-28T14:52:17.397 - Handle Save File Event
+2020-03-28T14:52:17.399 - Save File  java.io.FileNotFoundException: C:\Users\jwaller\Desktop (Access is denied)
+2020-03-28T14:52:25.093 - Handle Rectangle Event
+2020-03-28T14:52:29.484 - Handle Save File Event
+2020-03-28T14:52:29.486 - Save File  java.io.FileNotFoundException: C:\Users\jwaller\Desktop (Access is denied)
+2020-03-28T14:52:30.629 - Handle New File Event
+2020-03-28T14:52:32.917 - Handle Open File Event
+2020-03-28T14:52:50.396 - Handle Save As File Event
+2020-03-28T14:52:55.186 - Save As File  java.lang.NullPointerException
+2020-03-28T14:52:59.835 - PrinCad end execution
+2020-03-28T14:57:56.313 - PrinCad begin execution
+2020-03-28T14:57:59.46 - Handle Open File Event
+2020-03-28T14:58:09.236 - Handle Circle Event
+2020-03-28T14:58:17.412 - Handle Save File Event
+2020-03-28T14:58:19.948 - Handle New File Event
+2020-03-28T14:58:20.54 - Handle Open File Event
+2020-03-28T14:58:27.549 - Handle Save As File Event
+2020-03-28T14:58:35.056 - Save As File  java.lang.NullPointerException
+2020-03-28T14:58:36.305 - PrinCad end execution
+2020-03-28T15:01:03.624 - PrinCad begin execution
+2020-03-28T15:01:09.381 - Handle Open File Event
+2020-03-28T15:01:15.276 - Handle Save As File Event
+2020-03-28T15:01:50.389 - PrinCad end execution
+2020-03-28T15:02:10.554 - PrinCad begin execution
+2020-03-28T15:02:12.668 - Handle Open File Event
+2020-03-28T15:02:19.493 - Handle Save As File Event
+2020-03-28T15:02:33.706 - Save As File  java.lang.NullPointerException
+2020-03-28T15:02:35.081 - PrinCad end execution
+2020-03-28T15:03:03.633 - PrinCad begin execution
+2020-03-28T15:03:06.189 - Handle Open File Event
+2020-03-28T15:03:21.029 - Handle Save As File Event
+2020-03-28T15:05:16.289 - PrinCad end execution
+2020-03-29T09:52:21.364 - PrinCad begin execution
+2020-03-29T09:52:33.606 - PrinCad end execution
+2020-03-29T10:03:19.149 - PrinCad begin execution
+2020-03-29T10:03:21.363 - Handle Ellipse Event
+2020-03-29T10:03:24.755 - Handle Circle Event
+2020-03-29T10:03:32.034 - Handle Circle Event
+2020-03-29T10:03:43.706 - Handle Ellipse Event
+2020-03-29T10:04:04.473 - PrinCad end execution
+2020-03-29T10:04:41.611 - PrinCad begin execution
+2020-03-29T10:04:46.99 - PrinCad end execution
+2020-03-29T10:13:16.059 - PrinCad begin execution
+2020-03-29T10:13:20.155 - Handle Plus Marker Event
+2020-03-29T10:13:21.795 - Handle Box Marker Event
+2020-03-29T10:13:23.411 - Handle X Marker Event
+2020-03-29T10:13:25.915 - Handle Single LIne Event
+2020-03-29T10:13:28.274 - Handle Rectangle Event
+2020-03-29T10:13:30.834 - Handle Circle Event
+2020-03-29T10:13:35.17 - Handle Ellipse Event
+2020-03-29T10:13:41.971 - Handle Polyline Event
+2020-03-29T10:13:56.098 - Handle Save File Event
+2020-03-29T10:14:45.683 - Handle Plus Marker Event
+2020-03-29T10:14:49.178 - Handle Box Marker Event
+2020-03-29T10:14:51.57 - Handle X Marker Event
+2020-03-29T10:14:54.891 - Handle Save File Event
+2020-03-29T10:15:44.354 - PrinCad end execution
+2020-03-29T10:18:02.752 - PrinCad begin execution
+2020-03-29T10:18:06.954 - Handle Open File Event
+2020-03-29T10:18:19.682 - Handle Plus Marker Event
+2020-03-29T10:18:22.258 - Handle Box Marker Event
+2020-03-29T10:18:24.69 - Handle X Marker Event
+2020-03-29T10:18:33.155 - Handle Save File Event
+2020-03-29T10:20:12.966 - PrinCad end execution
+2020-03-29T10:21:44.132 - PrinCad begin execution
+2020-03-29T10:21:56.802 - Handle Open File Event
+2020-03-29T10:22:12.986 - Handle Plus Marker Event
+2020-03-29T10:22:15.922 - Handle Box Marker Event
+2020-03-29T10:22:18.154 - Handle X Marker Event
+2020-03-29T10:22:23.97 - Handle Save File Event
+2020-03-29T10:22:53.675 - Handle Rectangle Event
+2020-03-29T10:23:08.154 - Handle Save As File Event
+2020-03-29T10:25:14.258 - Handle Open File Event
+2020-03-29T10:25:56.138 - Handle Rectangle Event
+2020-03-29T10:26:15.042 - Handle Save File Event
+2020-03-29T10:26:31.871 - PrinCad end execution
+2020-03-29T10:27:37.148 - PrinCad begin execution
+2020-03-29T10:27:50.132 - Handle Open File Event
+2020-03-29T10:27:59.098 - Handle Rectangle Event
+2020-03-29T10:28:04.738 - Handle Save As File Event
+2020-03-29T10:28:41.186 - PrinCad end execution
+2020-03-29T10:28:44.352 - PrinCad begin execution
+2020-03-29T10:28:52.303 - PrinCad end execution
+2020-03-29T10:28:55.342 - PrinCad begin execution
+2020-03-29T10:29:00.778 - PrinCad end execution
+2020-03-29T10:29:03.622 - PrinCad begin execution
+2020-03-29T10:29:24.301 - PrinCad end execution
+2020-03-29T10:30:57 - PrinCad begin execution
+2020-03-29T10:31:15.903 - PrinCad end execution
+2020-03-29T10:31:18.898 - PrinCad begin execution
+2020-03-29T10:31:22.486 - PrinCad end execution
+2020-03-29T10:31:24.947 - PrinCad begin execution
+2020-03-29T10:31:28.99 - PrinCad end execution
+2020-03-29T10:31:31.542 - PrinCad begin execution
+2020-03-29T10:31:39.992 - PrinCad end execution

@@ -1,0 +1,8 @@
+#Sun Mar 29 10:31:39 MDT 2020
+LoggingLevel=Information
+CanvasWidth=511
+SceneHeight=717
+CanvasHeight=522
+SceneBackgroundColor=0xb8860bff
+SceneWidth=845
+CanvasBackgroundColor=0x000000ff
